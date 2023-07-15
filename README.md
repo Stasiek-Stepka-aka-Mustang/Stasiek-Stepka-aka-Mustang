@@ -10,6 +10,14 @@ Welcome to my GitHub profile! I'm Stanisław Stepka, a passionate music lover an
 - 💻 Coding enthusiast: I enjoy exploring the endless possibilities of programming and its creative potential.
 - 🌟 Open source advocate: I'm a strong believer in the power of collaboration and sharing knowledge with the community.
 
+
+## My knowledge 🔍
+
+- ![Java](https://img.icons8.com/color/32/000000/java-coffee-cup-logo--v1.png) Java (Advanced)
+- ![C++](https://img.icons8.com/color/32/000000/c-plus-plus-logo.png) C++ (Advanced)
+- ![HTML](https://img.icons8.com/color/32/000000/html-5--v1.png) HTML (Intermediate)
+- ![CSS](https://img.icons8.com/color/32/000000/css3.png) CSS (Intermediate)
+
 ## Projects Highlights 🚀
 
 ### 1. BeatFlipper 🎶🔍
