@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Stanisław Stepka, a passionate music lover an
 
 ### 1. BeatFlipper 🎶🔍
 
-BeatFlipper is a tool used for downloading Beats from Youtube in the best quality in seconds! Check it out [here](https://github.com/your-username/rhythmanalyzer)!
+BeatFlipper is a tool used for downloading Beats from Youtube in the best quality in seconds! Check it out [here](https://github.com/Stasiek-Stepka-aka-Mustang/BeatFlipper)!
 
 ## Let's Connect! 🌐
 
