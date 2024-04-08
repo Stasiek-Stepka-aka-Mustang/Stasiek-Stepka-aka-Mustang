@@ -13,10 +13,12 @@ Welcome to my GitHub profile! I'm Stanisław Stepka, a passionate music lover an
 
 ## My knowledge 🔍
 
-- ![Java](https://img.icons8.com/color/32/000000/java-coffee-cup-logo--v1.png) Java (Advanced)
-- ![C++](https://img.icons8.com/color/32/000000/c-plus-plus-logo.png) C++ (Advanced)
-- ![HTML](https://img.icons8.com/color/32/000000/html-5--v1.png) HTML (Intermediate)
-- ![CSS](https://img.icons8.com/color/32/000000/css3.png) CSS (Intermediate)
+- Java (Advanced)
+- C++ (Advanced)
+- MS SQL (Advanced)
+- ORACLE SQL (Advanced)
+- Python (Intermediate)
+- C# (Intermediate)
 
 ## Projects Highlights 🚀
 
