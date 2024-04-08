@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm Stanisław Stepka, a passionate music lover an
 - Python (Intermediate)
 - C# (Intermediate)
 - REST APPS
-- API'S IN JAVA FOR BUSINESS APPS
 
 ## Projects Highlights 🚀
 
