@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm Stanisław Stepka, a passionate music lover an
 - ORACLE SQL (Advanced)
 - Python (Intermediate)
 - C# (Intermediate)
-- REST APPS
+- Javascript, Typescript
 
 ## Projects Highlights 🚀
 
